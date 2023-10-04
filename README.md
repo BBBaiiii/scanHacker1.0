@@ -2,7 +2,9 @@
 Super port scanner based on Golang.
 
 Usage: ./scanHacker [options]
+
 Designed by BBBaiiii 
+
 Options:
   -f string
         File containing IP addresses (one per line),The value can be IP or CIDR
